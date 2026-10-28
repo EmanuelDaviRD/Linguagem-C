@@ -9,9 +9,9 @@
 
 ---
 
-## ⭐ Destaque Especial: Projeto Radix Sort & Análise de Desempenho
+##Destaque Especial: Projeto Radix Sort & Análise de Desempenho
 
-> 📌 **Pasta:** `Estrutura de Dados / Classificação por radix /`
+> **Pasta:** `Estrutura de Dados / Classificação por radix /`
 
 Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação não-comparativo **Radix Sort** e sua dependência do **Counting Sort estável**.
 
@@ -23,9 +23,9 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 
 ---
 
-## ⚡ Estrutura de Dados
+##Estrutura de Dados
 
-### 📂 Bibliotecas Modulares (`Estrutura de Dados / Bibliotecas /`)
+###Bibliotecas Modulares (`Estrutura de Dados / Bibliotecas /`)
 * `agenda_modular/`: Implementação modularizada da agenda telefônica (`agenda.h`, `agenda.c`, `main.c`).
 * `conversoes/`: Funções para conversão de unidades térmicas (`Celsius` / `Fahrenheit`).
 * `financeiro/`: Cálculo de juros simples e compostos (`powf`).
