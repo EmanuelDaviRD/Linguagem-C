@@ -9,7 +9,7 @@
 
 ---
 
-##Destaque Especial: Projeto Radix Sort & Análise de Desempenho
+## Destaque Especial: Projeto Radix Sort & Análise de Desempenho
 
 > **Pasta:** `Estrutura de Dados / Classificação por radix /`
 
@@ -23,7 +23,7 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 
 ---
 
-##Estrutura de Dados
+## Estrutura de Dados
 
 ###Bibliotecas Modulares (`Estrutura de Dados / Bibliotecas /`)
 * `agenda_modular/`: Implementação modularizada da agenda telefônica (`agenda.h`, `agenda.c`, `main.c`).
@@ -34,10 +34,10 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 * `stringutils/`: Funções personalizadas para contagem de vogais e inversão de strings.
 * `utilidades/`: Funções utilitárias de comparação de maior e menor valor.
 
-### 🔗 Listas Encadeadas (`Estrutura de Dados / ListasEncadeadas / CRUD /`)
+### Listas Encadeadas (`Estrutura de Dados / ListasEncadeadas / CRUD /`)
 * `aluno.h`, `aluno.c`, `main.c`: Sistema completo de CRUD (Inserção no início/fim, busca por matrícula e nome, alteração, remoção, contagem e filtragem de aprovados) utilizando ponteiros e listas encadeadas dinâmicas.
 
-### 📜 Exercícios de Estrutura de Dados (Raiz da Pasta)
+### Exercícios de Estrutura de Dados (Raiz da Pasta)
 | Arquivo | Tópico Principal |
 | :--- | :--- |
 | `agenda_telefones.c` | Sistema de agenda em memória com busca alfabética e por data |
@@ -81,9 +81,9 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 
 ---
 
-## 📌 Fundamentos da Programação
+## Fundamentos da Programação
 
-### 🐝 Resolução de Exercícios do Beecrowd (`beecrowd_*.c`)
+###  Resolução de Exercícios do Beecrowd (`beecrowd_*.c`)
 Soluções aceitas cobrindo problemas do **Beecrowd / URI Judge**:
 `1071` (Soma de Impares Consecutivos), `1094` (Experiências), `1134` (Tipo de Combustível), `1142` (PUM), `1151` (Fibonacci Fácil), `1173` (Preenchimento de Vetor I), `1175` (Troca em Vetor I), `1179` (Preenchimento de Vetor IV), `1180` (Menor e Posição), `1183` (Acima da Diagonal Principal), `1185` (Acima da Diagonal Secundária), `1187` (Área Superior), `1234` (Sentença Dançante), `1435` (Matriz Quadrada I), `1478` (Matriz Quadrada II), `2727` (Código Morse), `2756` (Saída 10), `2757` (Entrada e Saída de Inteiros), `2763` (Entrada e Saída CPF), `2764` (Entrada e Saída de Data), `2766` (Entrada e Saída Lendo Nomes), `2866` (Criptotexto).
 
@@ -135,7 +135,7 @@ Soluções aceitas cobrindo problemas do **Beecrowd / URI Judge**:
 
 ---
 
-## 🛠️ Como Compilar e Executar
+## Como Compilar e Executar
 
 ### 1. Compilar um arquivo individual simples:
 ```bash
