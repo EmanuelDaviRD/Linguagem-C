@@ -25,7 +25,7 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 
 ## Estrutura de Dados
 
-###Bibliotecas Modulares (`Estrutura de Dados / Bibliotecas /`)
+### Bibliotecas Modulares (`Estrutura de Dados / Bibliotecas /`)
 * `agenda_modular/`: Implementação modularizada da agenda telefônica (`agenda.h`, `agenda.c`, `main.c`).
 * `conversoes/`: Funções para conversão de unidades térmicas (`Celsius` / `Fahrenheit`).
 * `financeiro/`: Cálculo de juros simples e compostos (`powf`).
