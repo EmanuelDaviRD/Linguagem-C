@@ -17,9 +17,9 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 
 | Arquivo / Documento | Descrição e Foco Técnico |
 | :--- | :--- |
-| 📄 `Radix_Sort_Emanuel_Davi.pdf` | **Relatório Acadêmico Completo (9 Páginas)** cobrindo a fundamentação teórica do algoritmo, cálculo analítico de complexidade $O(d \cdot (n + k))$, análise de estabilidade e gráficos comparativos de tempo de execução. |
-| 🧪 `radix_sort_demonstracao.c` | Implementação didática com exibição do vetor original e ordenado passo a passo a cada dígito processado. |
-| ⏱️ `radix_sort_medicao.c` | Script de benchmark dinâmico medindo o tempo de CPU com `clock()` para entradas variando de **100 até 100.000 elementos**. |
+|  `Radix_Sort_Emanuel_Davi.pdf` | **Relatório Acadêmico Completo (9 Páginas)** cobrindo a fundamentação teórica do algoritmo, cálculo analítico de complexidade $O(d \cdot (n + k))$, análise de estabilidade e gráficos comparativos de tempo de execução. |
+|  `radix_sort_demonstracao.c` | Implementação didática com exibição do vetor original e ordenado passo a passo a cada dígito processado. |
+|  `radix_sort_medicao.c` | Script de benchmark dinâmico medindo o tempo de CPU com `clock()` para entradas variando de **100 até 100.000 elementos**. |
 
 ---
 
@@ -87,7 +87,7 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 Soluções aceitas cobrindo problemas do **Beecrowd / URI Judge**:
 `1071` (Soma de Impares Consecutivos), `1094` (Experiências), `1134` (Tipo de Combustível), `1142` (PUM), `1151` (Fibonacci Fácil), `1173` (Preenchimento de Vetor I), `1175` (Troca em Vetor I), `1179` (Preenchimento de Vetor IV), `1180` (Menor e Posição), `1183` (Acima da Diagonal Principal), `1185` (Acima da Diagonal Secundária), `1187` (Área Superior), `1234` (Sentença Dançante), `1435` (Matriz Quadrada I), `1478` (Matriz Quadrada II), `2727` (Código Morse), `2756` (Saída 10), `2757` (Entrada e Saída de Inteiros), `2763` (Entrada e Saída CPF), `2764` (Entrada e Saída de Data), `2766` (Entrada e Saída Lendo Nomes), `2866` (Criptotexto).
 
-### 📖 Programação Básica, Vetores, Matrizes e Strings
+### Programação Básica, Vetores, Matrizes e Strings
 | Arquivo | Descrição |
 | :--- | :--- |
 | `aceita_cadastro.c` / `validar_dados.c` | Validação e consistência de entradas de dados |
