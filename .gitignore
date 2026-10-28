@@ -1,0 +1,9 @@
+# Executaveis e objetos
+*.exe
+*.o
+*.out
+*.exe.stackdump
+
+# Pastas de configuracao do VS Code
+.vscode/
+.idea/
