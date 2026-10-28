@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    double a1, q, an;
+    int n;
+
+    printf("Digite o primeiro termo da PG: ");
+    scanf("%lf", &a1);
+
+    printf("Digite a razao da PG: ");
+    scanf("%lf", &q);
+
+    printf("Digite a posicao do termo: ");
+    scanf("%d", &n);
+
+    if (n < 1) {
+        printf("Posicao invalida.\n");
+        return 1;
+    }
+
+    an = a1 * pow(q, n - 1);
+
+    printf("A%d = %.4lf\n", n, an);
+
+    return 0;
+}
