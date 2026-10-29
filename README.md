@@ -37,7 +37,7 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 ### Listas Encadeadas (`Estrutura de Dados / ListasEncadeadas / CRUD /`)
 * `aluno.h`, `aluno.c`, `main.c`: Sistema completo de CRUD (Inserção no início/fim, busca por matrícula e nome, alteração, remoção, contagem e filtragem de aprovados) utilizando ponteiros e listas encadeadas dinâmicas.
 
-### Listas Duplamente Encadeadas (`Estrutura de Dados / ListasDuplamenteEncadeadas  /`)
+### Listas Duplamente Encadeadas (`Estrutura de Dados / ListasDuplamenteEncadeadas /`)
 * `listad.h`, `listad.c`, `main.c`: Sistema completo de CRUD (Inserção no início/fim, busca por matrícula e nome, alteração, remoção, contagem e filtragem de aprovados) utilizando ponteiros e listas duplamente encadeadas dinâmicas.
 
 
