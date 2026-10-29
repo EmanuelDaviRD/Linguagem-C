@@ -40,6 +40,8 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 ### Listas Duplamente Encadeadas (`Estrutura de Dados / ListasDuplamenteEncadeadas /`)
 * `listad.h`, `listad.c`, `main.c`: Sistema completo de CRUD (Inserção no início/fim, busca por matrícula e nome, alteração, remoção, contagem e filtragem de aprovados) utilizando ponteiros e listas duplamente encadeadas dinâmicas.
 
+### Listas Circulares (`Estrutura de Dados / ListasCirculares /`)
+* `listacir.h`, `listacir.c`, `main.c`: Sistema completo de CRUD (Inserção no início/fim, busca por matrícula e nome, alteração, remoção, contagem e filtragem de aprovados) utilizando ponteiros e listas duplamente encadeadas dinâmicas.
 
 ### Exercícios de Estrutura de Dados (Raiz da Pasta)
 | Arquivo | Tópico Principal |
