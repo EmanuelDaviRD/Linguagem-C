@@ -11,7 +11,7 @@
 
 ## Destaque Especial: Projeto Radix Sort & Análise de Desempenho
 
-> **Pasta:** `Estrutura de Dados / Classificação por radix /`
+> **Pasta:** `Estrutura de Dados / RadixSort /`
 
 Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação não-comparativo **Radix Sort** e sua dependência do **Counting Sort estável**.
 
