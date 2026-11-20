@@ -44,13 +44,20 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 * `listacir.h`, `listacir.c`, `main.c`: Sistema completo de CRUD (Inserção no início/fim, busca por matrícula e nome, alteração, remoção, contagem e filtragem de aprovados) utilizando ponteiros e listas duplamente encadeadas dinâmicas.
 
 ### Filas (`Estrutura de Dados / Filas /`)
-* FilaDinamica.c: Implementação de fila dinâmica utilizando ponteiros e alocação dinâmica de memória.
-* FilaDupla.c: Implementação de fila dupla (Deque), permitindo inserções e remoções em ambas as extremidades.
-* FilaInteiros.c: Implementação de fila para armazenamento e manipulação de números inteiros.
-* FilaInteirosCircular.c: Implementação de fila circular de inteiros, permitindo o reaproveitamento das posições disponíveis.
-* FilaMistaComPilhas.c: Implementação de estrutura que combina filas e pilhas.
-* FiladeImpressao.c: Simulação de fila de impressão para organização e processamento de documentos.
-* FiladePrioridade.c: Implementação de fila de prioridade, em que os elementos são processados conforme sua prioridade.
+* `FilaDinamica.c`: Implementação de fila dinâmica utilizando ponteiros e alocação dinâmica de memória.
+* `FilaDupla.c`: Implementação de fila dupla (Deque), permitindo inserções e remoções em ambas as extremidades.
+* `FilaInteiros.c`: Implementação de fila para armazenamento e manipulação de números inteiros.
+* `FilaInteirosCircular.c`: Implementação de fila circular de inteiros, permitindo o reaproveitamento das posições disponíveis.
+* `FilaMistaComPilhas.c`: Implementação de estrutura que combina filas e pilhas.
+* `FiladeImpressao.c`: Simulação de fila de impressão para organização e processamento de documentos.
+* `FiladePrioridade.c`: Implementação de fila de prioridade, em que os elementos são processados conforme sua prioridade.
+
+### Pilhas (`Estrutura de Dados / Pilhas /`)
+- `Expressos/`: Implementação modularizada de avaliação/validação de expressões utilizando pilha (`expressos.h`, `expressos.c`, `main.c`)[cite: 1].
+- `Navegador/`: Simulação modularizada de histórico de navegação (avançar/voltar) utilizando pilhas (`navegador.h`, `navegador.c`, `main.c`)[cite: 1].
+- `Pilha/`: Implementação modularizada da estrutura de dados pilha e suas operações básicas (`PILHA.H`, `pilha.c`, `main.c`)[cite: 1, 2].
+- `Strings/`: Implementação modularizada de manipulação e inversão de strings utilizando pilha (`strings.h`, `strings.c`, `main.c`)[cite: 1].
+
 
 ### Exercícios de Estrutura de Dados (Raiz da Pasta)
 | Arquivo | Tópico Principal |
