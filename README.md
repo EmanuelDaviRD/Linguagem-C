@@ -53,11 +53,10 @@ Este módulo consiste em um estudo aprofundado sobre o algoritmo de ordenação 
 * `FiladePrioridade.c`: Implementação de fila de prioridade, em que os elementos são processados conforme sua prioridade.
 
 ### Pilhas (`Estrutura de Dados / Pilhas /`)
-- `Expressos/`: Implementação modularizada de avaliação/validação de expressões utilizando pilha (`expressos.h`, `expressos.c`, `main.c`)[cite: 1].
-- `Navegador/`: Simulação modularizada de histórico de navegação (avançar/voltar) utilizando pilhas (`navegador.h`, `navegador.c`, `main.c`)[cite: 1].
-- `Pilha/`: Implementação modularizada da estrutura de dados pilha e suas operações básicas (`PILHA.H`, `pilha.c`, `main.c`)[cite: 1, 2].
-- `Strings/`: Implementação modularizada de manipulação e inversão de strings utilizando pilha (`strings.h`, `strings.c`, `main.c`)[cite: 1].
-
+- `Expressos/`: Implementação modularizada de avaliação/validação de expressões utilizando pilha (`expressos.h`, `expressos.c`, `main.c`).
+- `Navegador/`: Simulação modularizada de histórico de navegação (avançar/voltar) utilizando pilhas (`navegador.h`, `navegador.c`, `main.c`).
+- `Pilha/`: Implementação modularizada da estrutura de dados pilha e suas operações básicas (`PILHA.H`, `pilha.c`, `main.c`).
+- `Strings/`: Implementação modularizada de manipulação e inversão de strings utilizando pilha (`strings.h`, `strings.c`, `main.c`).
 
 ### Exercícios de Estrutura de Dados (Raiz da Pasta)
 | Arquivo | Tópico Principal |
